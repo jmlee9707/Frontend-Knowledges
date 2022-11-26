@@ -21,7 +21,8 @@
 
 ## :computer: 프론트엔드 전반
 
-- [CSR vs SSR]()
+- [CSR vs SSR - 개념과 구동방식의 차이, next.js 사용 이유]()
+- [주소창에 google.com을 입력하면 일어나는 일]()
 <!-- * [브라우저의 렌더링 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/browser-rendering.md)
 - [자바스크립트 엔진이 코드를 실행하는 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/engine.md)
 - [BOM과 DOM](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bom-dom.md)
@@ -37,27 +38,25 @@
 
 ## :page_with_curl: HTML
 
-<!-- * [DOCTYPE](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/doctype.md)
-* [표준모드와 호환모드](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/standard-quirks.md)
-* [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/data.md)
-* [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/web-storage-api.md)
-* [script vs script async vs script defer](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/script-tag-type.md)
-* [시맨틱 마크업](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/semantic.md)
+<!-- - [DOCTYPE]() -->
+<!--
+- [표준모드와 호환모드](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/standard-quirks.md)
+- [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/data.md)
+- [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/web-storage-api.md)
+- [script vs script async vs script defer](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/script-tag-type.md)
+- [시맨틱 마크업](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/semantic.md)
 
 <br> -->
 
 ## :lipstick: CSS
 
-<!-- * [박스 모델 (Box Model)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/box-model.md)
-* [float를 해제하는 방법들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/float-clear.md)
-* [마진겹침 현상](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/margin-collapsing.md)
-* [BFC (Block Formatting Context)](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/bfc.md)
-* [z-index의 동작방식](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/z-index.md)
-* [block vs inline vs inline-block](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/block-inline-inline-block.md)
-* [가로/세로 가운데 정렬하기](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/center.md)
-* [Reset.css vs Normalize.css](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/reset-normalize.md)
-* [그리드 시스템](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/grid.md)
-* [img 아래쪽 공백 제거](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/css/img-space.md) -->
+- [박스 모델 (Box Model), margin과 padding]()
+- [scss의 장점 - scss 사용 경험, css와 비교]()
+- [position 이란?]()
+<!-- - []()
+- []()
+- []()
+- []() -->
 
 <br>
 
