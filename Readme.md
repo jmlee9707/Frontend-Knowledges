@@ -25,7 +25,7 @@
 <!-- - [브라우저의 렌더링 과정](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/frontend/rendering_browser_.md)
 - [주소창에 google.com을 입력하면 일어나는 일]() -->
 - [RESTFUL API란?](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/frontend/restful_API.md)
-  <!-- - [GET 과 POST 의 차이]() -->
+     <!-- - [GET 과 POST 의 차이]() -->
   <!--
 - [자바스크립트 엔진이 코드를 실행하는 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/engine.md)
 - [BOM과 DOM](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bom-dom.md)
