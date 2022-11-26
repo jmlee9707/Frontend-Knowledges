@@ -15,7 +15,7 @@
 
 ## :tada: 소개
 
-취업 전 반드시 알아야 한다고 생각하는 프론트엔드 분야의 기초지식들을 혼자 공부하며 정리하는 공간입니다.
+취업 전 반드시 알아야 한다고 생각하는 프론트엔드 분야의 기초지식들을 혼자 공부하며 정리하는 공간입니다✨
 
 <br>
 
@@ -26,8 +26,8 @@
 - [주소창에 google.com을 입력하면 일어나는 일]() -->
 - [RESTFUL API란?](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/frontend/restful_API.md)
      <!-- - [GET 과 POST 의 차이]() -->
-  <!--
-- [자바스크립트 엔진이 코드를 실행하는 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/engine.md)
+
+<!-- - [자바스크립트 엔진이 코드를 실행하는 과정](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/engine.md)
 - [BOM과 DOM](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bom-dom.md)
 - [모듈 번들러와 트랜스파일러](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/bundler-transpiler.md)
 - [CI와 CD](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/frontend/ci-cd.md)
@@ -37,19 +37,23 @@
 
 ## :dizzy: 자료구조
 
+- [Array]()
+
 <br>
 
 ## :page_with_curl: HTML
 
-<!-- - [DOCTYPE]() -->
-<!--
-- [표준모드와 호환모드](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/standard-quirks.md)
+- [DOCTYPE]()
+
+<!-- - [표준모드와 호환모드](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/standard-quirks.md)
 - [data- 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/data.md)
 - [local storage vs session storage vs cookie](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/web-storage-api.md)
 - [script vs script async vs script defer](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/script-tag-type.md)
-- [시맨틱 마크업](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/semantic.md)
+- [시맨틱 마크업](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/html/semantic.md) -->
 
-<br> -->
+<br>
+
+<br>
 
 ## :lipstick: CSS
 
@@ -57,14 +61,15 @@
 - [scss의 장점 - scss 사용 경험, css와 비교](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/css/scss-sass.md)
 - [position 이란?](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/css/position-css.md)
 - [flex란?]()
-- [visibility:hidden 과 display:none의 차이](visibility_hidden_vs_display_none.md)
+- [display 속성]()
+- [visibility:hidden 과 display:none의 차이](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/css/visibility_hidden_vs_display_none.md)
 - [svg 파일이란?]()
 - [반응형 웹의 3요소]()
-- [css selector 동작 원리](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/css/css_selector.md)
-- [px, em에 대해]()
-- [css 적용 우선 순위]()
+- [css selector 개념, 종류, 우선순위](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/css/css_selector.md)
+- [css 길이의 단위, px, em, rem](https://github.com/jmlee9707/Frontend-Knowledges/blob/master/css/px_em_rem.md)
 - [css-in-js에 대해]()
-- [grid]
+- [grid]()
+- [float 작동 원리]()
 
 <br>
 
